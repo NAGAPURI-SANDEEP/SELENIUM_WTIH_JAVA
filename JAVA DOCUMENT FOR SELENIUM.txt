@@ -2,7 +2,7 @@ structured : - C, python,
 object based :  -Vb script, python
 object oriented :  -c++,java, c#, python
 
-if a programming language supports a 
+if a programming language supports the following priciples
 
 		object, 
 		class,
