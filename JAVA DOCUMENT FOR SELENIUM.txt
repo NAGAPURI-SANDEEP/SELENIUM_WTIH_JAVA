@@ -1,0 +1,164 @@
+structured : - C, python,
+object based :  -Vb script, python
+object oriented :  -c++,java, c#, python
+
+if a programming language supports a 
+
+		object, 
+		class,
+		inheritence ,
+		polymorphism, 
+		encapsulation, 
+		Abstraction,
+
+Features :
+
+		1.Platform Independent
+		2.java is case sensitive language
+
+Components:
+
+		JDK--Java Development KIt (To develop java based applications)-->To develop any program using java
+
+ 		JRE--Java Runtime Environment (by default install from jdk)-->To run any java based  program.
+
+ 		JVM--Java virtual Machine (by default install from JRE)-->
+
+		To translate from one langauge (English) to another language (Bytecode) , compile (check errors) the program and execute the program
+
+1.CORE JAVE : 
+
+2.ADVANCED JAVA :
+
+
+Environment set up:
+
+		 1.JDK/java
+ 		 2.IDE (ECLIPSE)
+
+Versions :	
+		 Java 1-8 sun microsystems (OPEN SOURCE)
+	  	 Java 9-Oracle 
+	  	 For selenium java jdk 11+ version is better 
+	  	 Eclipse can get any verion which is latest
+
+		After install jdk, then set java path in environment variables
+
+		Install Eclipse with latest version (any verison is okay) from google 
+
+
+		Create a new java project --File--> New-----> Java Project
+		create a new java package --src-->package
+		Create a new class ---------------> Package-->new class
+	
+		To increase front size in window in eclipse CTRL+
+		To run the java program ctrl+f11 is the short cut key
+
+		every statement end with the semicolon, but not applies for class and method 
+		doble quotations are only to print exactly like strings 
+		to perfrom any operations we should  not use quotation
+
+Naming conventions:
+		1.class name should be start with uppercase
+		2.not sart with number	
+		3.contain underscore and number are allowed 
+		4.not hypen
+
+COMMENTS:To improve readability //
+
+		1.single line comments 
+		2.multi line comments
+
+
+DAy-2
+
+Variable 	:  A variable is a container whcih can store data. 
+	   	 Variable can be a stored memory location.
+	   	 which we can retrieve the data and access the data
+
+		int number =100	
+		float itemnumber = 12.50
+		int age=30
+		String name= "JHONNY"
+		char grade = 'A'
+
+Data Type	: Represents What type of data storing  into the variable is called data type.
+
+Two cateogories : Primitive , 
+		  non primitive/derived/ collections/--> data types 
+
+PRIMITIVE DATA TYPES:These are used to used to store single data into single varible
+
+	1.byte(1)------number without decimal-->(-128 to 127)
+	2.short(2)-----number without decimal-->(-32768 to 32767)
+	3.int(4)-------number without decimal-->(-2147483648 to 2147483647)
+	4.long(8)------number without decimal-->(-9223372036854775808 to 9223372036854775808)
+
+	5.float(4)-----decimal value ---------->(after decimal -7 decimal digits)-->
+	
+	The value wich is adding at end ofvalue is called literal (f)
+
+	6.double(8)----decimal value ---------->(after decimal -15 decimal digits)
+
+	7.char(2)------single character-------->(1 byte)
+
+	8.boolen(1)----true or false----------->(2 byte)
+
+NON_PRIMITIVE DATA TYPES : These are used to hold multiple data values  in to single varible
+
+	1.String
+	2.Array
+	3.Arraylist
+	4.Object
+	5.File
+	6.Hashmap
+	7.Hashset etc
+
+
+
+JAVA  is statically typed programming Language 
+
+int x= 100; 
+x= "welcome" // not possible
+
+PYTHON is dynamically typed programming language
+
+x=100;
+x="welcome" //possible
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
